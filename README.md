@@ -1,5 +1,6 @@
 # XSSFire
 A standalone Blind XSS Script.
+
 How it works:
 The script is a combination between PHP and JavaScript, it captures the data using JS and send it to the script itself, then it generates report files and deliver them through telegram. 
 
