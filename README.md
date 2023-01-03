@@ -22,14 +22,14 @@ Features:
 6. HTML Snapshot: Is an HTML file that will be delivered with the report, it should look similar to the page of your target.
 
 Setup:
-Go to telegram and have a chat with the @botfather.
-Write /start in the chat and create new bot.
-You should receive your bot token when you create it.
-Save the token aside.
-Now go to your newly created bot chat and start it then say hi.
-Then go to: https://api.telegram.org/bot<YourBOTToken>/getUpdates
-And save your chat id.
-Open the XSSFire Script and modify the following lines:
+1. Go to telegram and have a chat with the @botfather.
+2. Write /start in the chat and create new bot.
+3. You should receive your bot token when you create it.
+4. Save the token aside.
+5. Now go to your newly created bot chat and start it then say hi.
+6. Then go to: https://api.telegram.org/bot<YourBOTToken>/getUpdates
+7. And save your chat id.
+8. Open the XSSFire Script and modify the following lines:
 ```
 $chat_id = "<Telegram Chat ID>"; // Your Telegram Chat ID
 $token = "<Telegram Bot Access Token>"; // Your telegram Bot Access token
