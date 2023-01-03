@@ -45,3 +45,5 @@ You can simply create payloads through this extension by entering yourdomain.com
 <img width="578" alt="bxss" src="https://user-images.githubusercontent.com/11223632/210347560-fb24b4fb-9927-4973-8a39-42802c308601.png">
 <img width="278" alt="bxss2" src="https://user-images.githubusercontent.com/11223632/210348003-c4d49ac0-62ea-4fca-8b4b-c2247bdd1c1d.png">
 <img width="519" alt="bxss3" src="https://user-images.githubusercontent.com/11223632/210349607-c441ef6c-865b-4a89-b08f-f7d03c6ef5a8.png">
+
+Thanks to GPT-3 xD
