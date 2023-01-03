@@ -27,7 +27,7 @@ Reachable.
 3. You should receive your bot token when you create it.
 4. Save the token aside.
 5. Now go to your newly created bot chat and start it then say hi.
-6. Then go to: https://api.telegram.org/bot<YourBOTToken>/getUpdates
+6. Then go to: `https://api.telegram.org/bot<YourBOTToken>/getUpdates`
 7. And save your chat id.
 8. Open the XSSFire Script and modify the following lines:
 ```
