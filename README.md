@@ -35,8 +35,8 @@ $chat_id = "<Telegram Chat ID>"; // Your Telegram Chat ID
 $token = "<Telegram Bot Access Token>"; // Your telegram Bot Access token
 $password = False; //Protect the Blind XSS Report with a password. Leave as False if not used.
 ```
-Now everything is ready.
-Upload the script to your server.
+9. Upload the script to your server.
+
 To generate payloads you might consider using the Blind-XSS-Manager https://github.com/SeifElsallamy/Blind-XSS-Manager
 You can simply create payloads through this extension by entering yourdomain.com/XSSFire.js in the domain field and click Save.
 
